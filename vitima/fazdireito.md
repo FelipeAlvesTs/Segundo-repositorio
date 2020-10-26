@@ -1,1 +1,0 @@
-# Adiciona agora ao stage
